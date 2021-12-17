@@ -4,7 +4,11 @@ A binary classification machine learning algorithm for bank related applications
 
 ## Description
 
-The purpose of this repository is to provide a blueprint for a potential banking related application. Historical data is provided with this repository. The business use case of this application aims to solve the following potential objectives:
+The purpose of this repository is to build a binary classifier that predicts the "Target" variable based on the other attributes provided. It can be used as a blueprint for a potential banking related application. Historical data is provided with this repository. 
+
+The model is trained using the dataset called "dataset_train_1.csv" and tested using the dataset called "dataset_test_1.csv" in the `data` folder.
+
+The business use case of this application aims to solve the following potential objectives:
 
 1. Fraud detection
 2. Customer churn
